@@ -1,0 +1,27 @@
+{
+  "name": "telegraf-session-mssql",
+  "version": "1.0.0",
+  "description": "mssql session middleware for telegraf framework",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/iamel89/telegraf-session-mssql"
+  },
+  "keywords": [
+    "js",
+    "javascript",
+    "telegram-bot",
+    "telegram",
+    "telegraf",
+    "middleware",
+    "session",
+    "mssql"
+  ],
+  "author": "Igor Melnikov <melnikov.ia@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iamel89/telegraf-session-mssql/issues"
+  },
+  "private": false,
+  "homepage": "https://github.com/iamel89/telegraf-session-mssql#readme"
+}
